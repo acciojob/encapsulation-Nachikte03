@@ -11,4 +11,3 @@ public class RWOnly {
         this.name = name;
     }
 }
-s
